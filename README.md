@@ -80,12 +80,7 @@ screen language_menu():
                 textbutton "简体中文" action [Language(None), Notify("语言已切换为中文")] style "lang_button"
                 textbutton "English" action [Language("english"), Notify("Language set to English")] style "lang_button"
                 textbutton "日本語" action [Language("japanese"), Notify("言語を日本語に設定しました")] style "lang_button"
-                textbutton "한국어" action [Language("korean"), Notify("언어가 한국어로 설정되었습니다")] style "lang_button"
-                textbutton "Русский" action [Language("russian"), Notify("Язык установлен на русский")] style "lang_button"
-                textbutton "Français" action [Language("french"), Notify("Langue réglée sur le français")] style "lang_button"
-                textbutton "Deutsch" action [Language("german"), Notify("Sprache auf Deutsch eingestellt")] style "lang_button"
-                textbutton "Español" action [Language("spanish"), Notify("Idioma configurado en español")] style "lang_button"
-
+            
 
 style lang_button is button:
     xsize 380
