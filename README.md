@@ -208,7 +208,5 @@ That concludes the entirety of this document. Thank you for your patience in rea
 
 所以，这就是本文档的全部内容，感谢你有耐心能够看完这一篇文章，作为一名编程小白，能编程上帮到你是我莫大的荣幸。有任何不对或者存疑的地方，欢迎发送邮件来和我一起探讨，让我们一起成长！
 
-伟大的开源精神万岁🎉
-Long live the great spirit of Open Source! 🎉
 
 AzzzWhy
